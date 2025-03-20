@@ -16,6 +16,7 @@ The primary objective of this project is to showcase the potential of artificial
 -  Natural Language Processing (NLP) : NLP will play a crucial role in enabling our webpage to understand and respond to user queries and interactions in a natural language format.
 -  Web Development : HTML, CSS, and JavaScript will be used to build a visually appealing and functional user interface for our AI-powered webpage.
 
+
 ### Implementations
 
 1.  API Integration : Begin by integrating the Gemini API into your web application. Follow the API documentation to set up the necessary API keys and authentication mechanisms.
